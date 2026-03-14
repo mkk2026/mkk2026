@@ -132,9 +132,9 @@ I believe in breaking systems to rebuild them better. I don't just follow trends
 
 I'm always open to collaborating on projects involving **AI, cybersecurity, automation, or startup innovation**. If you're building something bold, thinking differently, or pushing boundaries—let's talk!
 
-- 📧 **Email:** [your.email@example.com]
+- 📧 **Email:** [info@corebrimtech.com]
 - 🔗 **LinkedIn:** [linkedin.com/in/momodu-kamara-kolleh](https://linkedin.com/in/momodu-kamara-kolleh)
-- 🐦 **Twitter/X:** [@yourhandle](https://twitter.com/yourhandle)
+- 🐦 **Twitter/X:** N/A)
 - 🌐 **Core Brim Tech:** [corebrimtech.com](https://corebrimtech.com)
 
 ---
