@@ -34,6 +34,18 @@
 
 <img src="https://github-profile-trophy.vercel.app/?username=mkk2026&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 
+<br/>
+
+## 📅 Contribution Calendar
+
+<img src="https://ghchart.rshah.org/6366f1/mkk2026" alt="Contribution Calendar" />
+
+<br/>
+
+## 💻 Random Dev Quote
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
+
 </div>
 
 ---
