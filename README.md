@@ -30,27 +30,9 @@
 
 <br/>
 
-## 🐍 Contribution Snake
-
-![Snake animation](https://raw.githubusercontent.com/mkk2026/mkk2026/output/github-contribution-grid-snake.svg)
-
-<br/>
-
 ## 🏆 GitHub Trophies
 
 <img src="https://github-profile-trophy.vercel.app/?username=mkk2026&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-
-<br/>
-
-## 🎧 Spotify Now Playing
-
-[![Spotify](https://spotify-github-profile.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/your-spotify-user-id)
-
-<br/>
-
-## 🌍 Visitor Map
-
-<img src="https://visitcount.itsvg.in/api?id=mkk2026&icon=0&color=0" alt="Visitor Count" />
 
 </div>
 
