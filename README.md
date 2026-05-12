@@ -3,48 +3,11 @@
 **AI & Cybersecurity Engineer | Founder & CEO of Core Brim Tech | Building Scalable Trust Systems for Emerging Markets**
 
 <div align="center">
-  
+
 [![GitHub followers](https://img.shields.io/github/followers/mkk2026?style=social)](https://github.com/mkk2026)
 [![Profile Views](https://komarev.com/ghpvc/?username=mkk2026&color=0e75b6&style=flat)](https://github.com/mkk2026)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-momodu--kamara--kolleh-blue?logo=linkedin)](https://linkedin.com/in/momodu-kamara-kolleh)
 [![Website](https://img.shields.io/badge/Website-corebrimtech.com-green)](https://corebrimtech.com)
-
-</div>
-
----
-
-<div align="center">
-  
-## GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=mkk2026&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mkk2026&theme=radical&hide_border=true" alt="GitHub Streak" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkk2026&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mkk2026&bg_color=1a1b27&color=9fafdf&line=628fdb&point=f4f4f4&area=true&hide_border=true" alt="Contribution Graph" />
-
-<br/>
-
-## 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=mkk2026&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-
-<br/>
-
-## 📅 Contribution Calendar
-
-<img src="https://ghchart.rshah.org/6366f1/mkk2026" alt="Contribution Calendar" />
-
-<br/>
-
-## 💻 Random Dev Quote
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
 
 </div>
 
@@ -242,4 +205,4 @@ I'm always open to collaborating on projects involving **AI, cybersecurity, auto
 
 **Let's build something extraordinary together. Always open to bold ideas, collaborations, and discussions on AI, cybersecurity, and innovation.**
 
-*Last updated: 2026-03-14*
+*Last updated: May 2026*
