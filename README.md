@@ -29,6 +29,23 @@ I believe in breaking systems to rebuild them better. I don't just follow trends
 
 ---
 
+## 📊 GitHub Stats
+
+![GitHub Stats (Dark)](https://github-readme-stats.vercel.app/api?username=mkk2026&show_icons=true&theme=onedark&hide_border=true&include_all_commits=true&count_private=true#gh-dark-mode-only)
+![GitHub Stats (Light)](https://github-readme-stats.vercel.app/api?username=mkk2026&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true#gh-light-mode-only)
+
+## 🏆 GitHub Trophies
+
+![Trophies (Dark)](https://github-profile-trophy.vercel.app/?username=mkk2026&theme=onedark&no-frame=true#gh-dark-mode-only)
+![Trophies (Light)](https://github-profile-trophy.vercel.app/?username=mkk2026&theme=flat#gh-light-mode-only)
+
+## 💻 Top Languages
+
+![Top Languages (Dark)](https://github-readme-stats.vercel.app/api/top-langs/?username=mkk2026&layout=compact&theme=onedark&hide_border=true&hide=jupyter%20notebook,tex&exclude_repo=ghidra#gh-dark-mode-only)
+![Top Languages (Light)](https://github-readme-stats.vercel.app/api/top-langs/?username=mkk2026&layout=compact&theme=default&hide_border=true&hide=jupyter%20notebook,tex&exclude_repo=ghidra#gh-light-mode-only)
+
+---
+
 ## 💼 Experience Highlights
 
 ### Core Brim Tech
