@@ -1,45 +1,46 @@
 # Momodu Kamara-Kolleh
 
-Full-stack engineer and founder of **Core Brim Tech**, based in Freetown, Sierra Leone.
-I build AI products end to end and actually ship them — frontend to Rust backend,
-desktop and web. Most of my public work is TypeScript and Python.
+Founder of **Core Brim Tech** and a full-stack engineer in Freetown, Sierra Leone.
+I build AI products end to end — frontend to Rust backend, web and native desktop —
+and I ship them.
 
-Right now I'm building **CoreBrimTech OS**, a desktop + web operating system for
-startup founders, and doing security research on the side.
+Right now I'm launching Core Brim Tech's first product, **Attestlane**, and building
+**CoreBrimTech OS** alongside it. Most of my public work is TypeScript and Python.
 
-## Projects
+## Featured work
+
+**[Attestlane](https://github.com/mkk2026/attestlane)** — Core Brim Tech's first product,
+launching soon. AI-native SOC 2 compliance for early-stage startups: audit-ready in
+**14 days, not 14 months** — and without the $7-10K a year that Vanta or Drata charge a
+three-person team. Automated evidence collection across 24 integrations.
+*Python · FastAPI · PostgreSQL · TypeScript · AI*
 
 **[CoreBrimTech OS](https://github.com/mkk2026/corebrimtech-os)** — A founder's operating
 system: market research, runway and deal tracking, goals, and an AI co-founder in one
-dashboard. It runs as a native desktop app on macOS, Windows, and Linux *and* as a web
-app from a single codebase — Next.js for the UI, Tauri (Rust) for the desktop shell, with
-a tray icon and native notifications. Published cross-platform installers; local-first
-with optional cloud sync.
+dashboard. Runs as a native desktop app on macOS, Windows, and Linux *and* as a web app
+from a single codebase — Next.js for the UI, Tauri (Rust) for the desktop shell, with a
+tray icon and native notifications. Published cross-platform installers; local-first with
+optional cloud sync.
 *TypeScript · React · Next.js · Tauri (Rust) · Tailwind · Supabase · Claude / Gemini*
 
-**[Attestlane](https://github.com/mkk2026/attestlane)** — A SOC 2 compliance platform for
-startups. AI-assisted evidence collection across 24 integrations, built to get a team
-audit-ready in roughly two weeks instead of months.
-*TypeScript · AI · integrations*
-
 **[medge](https://github.com/mkk2026/medge)** — An AI triage assistant for community health
-workers, built for the Gemma "AI for Good" hackathon. The goal: help a frontline worker
-make a faster, safer call about who needs care first.
+workers, built for the Gemma "AI for Good" hackathon. Helps a frontline worker make a
+faster, safer call about who needs care first.
 *Python · Gemma*
 
-**[Security News Scraper](https://github.com/mkk2026/Security.News.Scraper)** — A
-cybersecurity intelligence tool that monitors, aggregates, and analyzes threat sources in
-real time, so the signal doesn't get buried in noise.
+**[Security News Scraper](https://github.com/mkk2026/Security.News.Scraper)** — Cybersecurity
+intelligence that monitors, aggregates, and analyzes threat sources in real time, so the
+signal doesn't get buried in noise.
 *Python · automation*
 
-There's more in the repo list — landing pages, client sites, and experiments.
+More in the repo list — landing pages, client sites, and experiments.
 
 ## What I work with
 
 - **Languages** — TypeScript, JavaScript, Python, Rust, SQL
 - **Web** — React, Next.js, Tailwind, Node.js, FastAPI
 - **Desktop** — Tauri (Rust)
-- **Data** — Supabase / PostgreSQL
+- **Data** — PostgreSQL, Supabase
 - **AI / ML** — Claude, Gemini, NVIDIA NIM, OpenAI, TensorFlow, PyTorch, Hugging Face
 - **Cloud / DevOps** — AWS, Docker, Kubernetes, GitHub Actions, Vercel
 - **Security** — OWASP Top 10, penetration testing, vulnerability research, Burp Suite, Metasploit, Wireshark
