@@ -1,225 +1,98 @@
-# Momodu Kamara-Kolleh 👋
+# Momodu Kamara-Kolleh
 
-**AI & Cybersecurity Engineer | Founder & CEO of Core Brim Tech | Building Scalable Trust Systems for Emerging Markets**
+**Founder & Full-Stack Engineer — Core Brim Tech · Freetown, Sierra Leone**
 
-<div align="center">
+I build AI-powered software products end to end — from Rust desktop apps to
+Next.js web platforms — with a focus on trust, security, and emerging markets.
 
-[![GitHub followers](https://img.shields.io/github/followers/mkk2026?style=social)](https://github.com/mkk2026)
+[![Followers](https://img.shields.io/github/followers/mkk2026?style=social)](https://github.com/mkk2026?tab=followers)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-momodu--kamara--kolleh-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/momodu-kamara-kolleh)
+[![Website](https://img.shields.io/badge/Website-corebrimtech.com-1a7f37)](https://corebrimtech.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=mkk2026&color=0e75b6&style=flat)](https://github.com/mkk2026)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-momodu--kamara--kolleh-blue?logo=linkedin)](https://linkedin.com/in/momodu-kamara-kolleh)
-[![Website](https://img.shields.io/badge/Website-corebrimtech.com-green)](https://corebrimtech.com)
-
-</div>
 
 ---
 
-## 🌍 About Me
+## What I'm building
 
-I'm a passionate **cybersecurity engineer and AI entrepreneur** from Freetown, Sierra Leone, dedicated to building innovative solutions that bridge the gap between trust, security, and opportunity in emerging markets.
+I ship real, public products solo. The ones worth a click:
 
-By day, I'm an **ethical hacker and bug bounty hunter** with hands-on experience on platforms like HackerOne and Bugcrowd. By night, I'm architecting **AI-powered trust infrastructure** that helps millions access global opportunities with zero friction.
+### [CoreBrimTech OS](https://github.com/mkk2026/corebrimtech-os)
+An operating system for startup founders — research, money, goals, and an AI
+co-founder in one fast dashboard. Ships as a **native cross-platform desktop app**
+(macOS / Windows / Linux) *and* a web app from a single codebase, with a tray icon,
+global hotkey, and native notifications so it reaches you even when the window is closed.
 
-At **Core Brim Tech**, I'm leading the development of next-generation tools at the intersection of:
-- 🔐 Ethical hacking, penetration testing & vulnerability research
-- 🤖 AI automation and intelligent systems
-- 🎯 Red teaming & cybersecurity innovation
-- 🌏 Scalable tech for Africa and beyond
+`TypeScript · React 19 · Next.js · Tauri 2 (Rust) · Tailwind · Supabase · Claude / Gemini`
 
-I believe in breaking systems to rebuild them better. I don't just follow trends—I push boundaries and solve real human problems with technology.
+### [Attestlane](https://github.com/mkk2026/attestlane)
+A SOC 2 compliance platform for startups — AI-powered, 24 integrations, audit-ready in 14 days.
 
----
+`TypeScript · AI · Compliance automation`
 
-## 📊 GitHub Stats
+### [medge](https://github.com/mkk2026/medge)
+An AI triage assistant for community health workers, built for the Gemma hackathon.
+Technology aimed at real impact for people who need it.
 
-![GitHub Stats (Dark)](https://github-readme-stats.vercel.app/api?username=mkk2026&show_icons=true&theme=onedark&hide_border=true&include_all_commits=true&count_private=true#gh-dark-mode-only)
-![GitHub Stats (Light)](https://github-readme-stats.vercel.app/api?username=mkk2026&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true#gh-light-mode-only)
+`Python · Gemma · Healthcare`
 
-## 🏆 GitHub Trophies
+### [Security News Scraper](https://github.com/mkk2026/Security.News.Scraper)
+Automated cybersecurity intelligence — monitors, aggregates, and analyzes threats
+from trusted sources in real time.
 
-![Trophies (Dark)](https://github-profile-trophy.vercel.app/?username=mkk2026&theme=onedark&no-frame=true#gh-dark-mode-only)
-![Trophies (Light)](https://github-profile-trophy.vercel.app/?username=mkk2026&theme=flat#gh-light-mode-only)
-
-## 💻 Top Languages
-
-![Top Languages (Dark)](https://github-readme-stats.vercel.app/api/top-langs/?username=mkk2026&layout=compact&theme=onedark&hide_border=true&hide=jupyter%20notebook,tex&exclude_repo=ghidra#gh-dark-mode-only)
-![Top Languages (Light)](https://github-readme-stats.vercel.app/api/top-langs/?username=mkk2026&layout=compact&theme=default&hide_border=true&hide=jupyter%20notebook,tex&exclude_repo=ghidra#gh-light-mode-only)
+`Python · Security · Automation`
 
 ---
 
-## 💼 Experience Highlights
+## Tech stack
 
-### Core Brim Tech
-**Founder & CEO** | *January 2024 - Present*
-- Leading development of **Ruth 4.0**, an autonomous operations assistant for real-time task handling, security checks, research, and workflow automation
-- Designing and overseeing AI-powered SaaS platforms with security-first architecture
-- Architecting secure backend systems with cybersecurity best practices
-- Conducting penetration testing and vulnerability research to strengthen product security
-- Managing API integrations (AI models, blockchain systems, payment infrastructure)
-- Developing go-to-market strategies for emerging and global markets
+**Languages** &nbsp;TypeScript · JavaScript · Python · Rust · SQL
 
-### HackerOne - Bug Bounty Hunter
-**Active Security Researcher** | *March 2021 - Present*
-- Identifying and reporting critical vulnerabilities
-- Contributing to the security of global platforms and systems
+**Frontend** &nbsp;React · Next.js · Tailwind CSS
 
-### UN Sustainable Development Solutions Network – Nigeria
-**Delegate** | *June 2025 - Present*
-- Representing youth voices on climate, innovation, and SDG-focused solutions
-- Collaborating with regional and international delegates on climate-based initiatives
+**Desktop** &nbsp;Tauri 2 (Rust)
 
-### Theirworld
-**Global Youth Ambassador** | *January 2026 - Present*
-- Committed to achieving UN Sustainable Development Goal 4: Quality education for all
-- Part of a diverse cohort of young changemakers from around the world
+**Backend & Data** &nbsp;Node.js · FastAPI · Supabase / PostgreSQL
 
-### Inspiration For Human Development Sierra Leone
-**Head of Information Technology** | *June 2023 - Present*
-- Overseeing IT strategy, cybersecurity, and digital operations
-- Implementing systems that enhance organizational performance
-- Leading digital training and secure systems adoption
+**AI & ML** &nbsp;Claude · Gemini · NVIDIA NIM · OpenAI · TensorFlow · PyTorch · Hugging Face · LLM integration
+
+**Cloud & DevOps** &nbsp;AWS · Docker · Kubernetes · GitHub Actions · Vercel
+
+**Security** &nbsp;OWASP Top 10 · penetration testing · vulnerability research · Burp Suite · Metasploit · Wireshark
+
+**Also** &nbsp;REST APIs · microservices · blockchain integration
 
 ---
 
-## 🛠️ Tech Stack & Expertise
+## Experience
 
-<div align="center">
+**Core Brim Tech** — Founder & CEO · *2024 – present*
+Building AI-powered SaaS with a security-first architecture: full-stack development,
+AI/model and payment integrations, and go-to-market for emerging and global markets.
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+**Inspiration for Human Development Sierra Leone** — Head of IT · *2023 – present*
+IT strategy, cybersecurity, and digital operations; secure-systems adoption and digital training.
 
-### AI & Machine Learning
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+**Security research** — Bug bounty & vulnerability research · HackerOne, Bugcrowd
+Identifying and reporting vulnerabilities to strengthen the security of global platforms.
 
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+**Theirworld** — Global Youth Ambassador · *2026* — advocating UN SDG 4 (quality education)
 
-### Security Tools
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-1B3B6F?style=for-the-badge&logo=metasploit&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-
-### Frameworks & Libraries
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-</div>
+**UN SDSN Nigeria** — Delegate · *2025* — youth voice on climate, innovation, and the SDGs
 
 ---
 
-### Cybersecurity & Ethical Hacking
-- Penetration Testing & Vulnerability Assessment
-- Red Team Operations
-- Bug Bounty & Security Research
-- Network Security & Cryptography
-- Web Application Security (OWASP Top 10)
+## GitHub
 
-### AI & Automation
-- Machine Learning & NLP
-- AI Model Deployment & Optimization
-- Workflow Automation
-- Intelligent Decision-Making Systems
-- LLM Integration & Fine-tuning
-
-### Backend & Cloud
-- Python, JavaScript/TypeScript, SQL
-- RESTful APIs & Microservices
-- Cloud Infrastructure (AWS/GCP/Azure)
-- Docker & CI/CD Pipelines
-- Blockchain Integration
-
-### Tools & Platforms
-- Git / GitHub
-- HackerOne / Bugcrowd
-- Burp Suite, Metasploit, OWASP ZAP
-- Kubernetes, Docker
-- Cloud-native development
+![Stats](https://github-readme-stats.vercel.app/api?username=mkk2026&show_icons=true&theme=onedark&hide_border=true&include_all_commits=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mkk2026&layout=compact&theme=onedark&hide_border=true&langs_count=8&hide=tex)
 
 ---
 
-## 🚀 Featured Projects
+## Let's connect
 
-### Ruth 4.0 - Autonomous Operations Assistant
-- **What it does:** An AI-powered autonomous assistant that handles real-time tasks, security checks, research, workflow automation, and intelligent decision-making
-- **Impact:** Streamlining how people access global opportunities with zero friction
-- **Tech Stack:** AI/ML, Python, Cloud Infrastructure, Security-first architecture
+Open to roles and collaborations in **AI engineering, full-stack development, and security**.
+If you're building something ambitious, let's talk.
 
-### Core Brim Tech Platform
-- **What it does:** AI-powered trust infrastructure for digital systems, simplifying risk across contracts, payments, cybersecurity, and automation
-- **Focus:** Emerging markets and global scalability
-- **Tech Stack:** SaaS, Secure backend systems, API integrations, Blockchain
-
----
-
-## 📊 Current Focus
-
-🔭 **Currently Building:**
-- Next-gen AI automation tools for emerging markets
-- Scalable trust systems across digital infrastructure
-- Security-first SaaS platforms
-
-🌱 **Always Learning:**
-- Advanced AI/ML architectures
-- Zero-trust security frameworks
-- Emerging cybersecurity threats & defense mechanisms
-
-💡 **Areas of Interest:**
-- Ethical AI & responsible automation
-- Financial accessibility through technology
-- Building tech that actually moves the needle for Africa
-
----
-
-## 🏆 Recognition & Community
-
-- 🌍 **Global Youth Ambassador** - Theirworld (2026)
-- 🇳🇪 **UN SDG Delegate** - UN Sustainable Development Solutions Network (2025)
-- 🔐 **Active Bug Bounty Hunter** - HackerOne, Bugcrowd
-- 💪 **Advocate for Inclusion** - Purposeful & Plan International
-
----
-
-## 🤝 Let's Connect
-
-I'm always open to collaborating on projects involving **AI, cybersecurity, automation, or startup innovation**. If you're building something bold, thinking differently, or pushing boundaries—let's talk!
-
-- 📧 **Email:** [info@corebrimtech.com](mailto:info@corebrimtech.com)
-- 🔗 **LinkedIn:** [linkedin.com/in/momodu-kamara-kolleh](https://linkedin.com/in/momodu-kamara-kolleh)
-- 🌐 **Core Brim Tech:** [corebrimtech.com](https://corebrimtech.com)
-
----
-
-## 💪 My Philosophy
-
-> *I don't just follow trends. I break systems, learn from them, and build better ones.*
-
-- **Think boldly** — Don't accept the status quo
-- **Build with purpose** — Technology should solve real human problems
-- **Secure by design** — Trust is earned, never assumed
-- **Share knowledge** — Growth happens through collaboration
-- **Push boundaries** — Innovation lives at the edge
-
----
-
-## 📝 Fun Facts
-
-- 🚀 Building the future of AI-powered automation from Freetown, Sierra Leone
-- 🔓 Passionate about ethical hacking and finding security blind spots
-- 🌍 Advocate for digital accessibility and tech equity in emerging markets
-- 🎯 Driven by solving problems that matter to real people
-- 💻 Founder, hacker, builder, and lifelong learner
-
----
-
-**Let's build something extraordinary together. Always open to bold ideas, collaborations, and discussions on AI, cybersecurity, and innovation.**
-
-*Last updated: May 12, 2026*
+- 📧 [info@corebrimtech.com](mailto:info@corebrimtech.com)
+- 🔗 [linkedin.com/in/momodu-kamara-kolleh](https://linkedin.com/in/momodu-kamara-kolleh)
+- 🌐 [corebrimtech.com](https://corebrimtech.com)
