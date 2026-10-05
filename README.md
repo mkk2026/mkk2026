@@ -4,15 +4,16 @@ Founder of **Core Brim Tech** and a full-stack engineer in Freetown, Sierra Leon
 I build AI products end to end — frontend to Rust backend, web and native desktop —
 and I ship them.
 
-Right now I'm launching Core Brim Tech's first product, **Attestlane**, and building
+Core Brim Tech's first product, **Attestlane**, is live, and I'm building
 **CoreBrimTech OS** alongside it. Most of my public work is TypeScript and Python.
 
 ## Featured work
 
-**[Attestlane](https://github.com/mkk2026/attestlane)** — Core Brim Tech's first product,
-launching soon. AI-native SOC 2 compliance for early-stage startups: audit-ready in
-**14 days, not 14 months** — and without the $7-10K a year that Vanta or Drata charge a
-three-person team. Automated evidence collection across 24 integrations.
+**[Attestlane](https://attestlane.to)** — Core Brim Tech's first product, now live.
+SOC 2 readiness software for early-stage startups: assess readiness, identify gaps,
+draft policies for human review, and organize evidence. It is not an independent
+audit, a certification, or a guarantee of an audit result.
+[Source repository](https://github.com/mkk2026/attestlane).
 *Python · FastAPI · PostgreSQL · TypeScript · AI*
 
 **[CoreBrimTech OS](https://github.com/mkk2026/corebrimtech-os)** — A founder's operating
@@ -54,5 +55,5 @@ More in the repo list — landing pages, client sites, and experiments.
 ## Contact
 
 - **Portfolio** — [mkk2026.github.io](https://mkk2026.github.io)
-- **LinkedIn** — [momodu-kamara-kolleh](https://linkedin.com/in/momodu-kamara-kolleh)
+- **LinkedIn** — [momodu-kamara-kolleh](https://www.linkedin.com/in/momodu-kamara-kolleh-4a0200363/)
 - **Email** — info@corebrimtech.com
